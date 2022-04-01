@@ -1,0 +1,15 @@
+
+[
+    {
+      "id": "04f31dcc-35a8-5ef4-aa69-d858c0b5ee41",
+      "name": "Tran Hai Dang",
+      "age": 18,
+      "course":"Math"
+    },
+    {
+      "id": "62dc52d0-69a6-443a-mnhg-b1ac58fb3901",
+      "name": "Nguyen Van A",
+      "age": 20,
+      "course": "Physics"
+    }
+]
